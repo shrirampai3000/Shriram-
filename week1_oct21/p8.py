@@ -1,0 +1,1 @@
+#print the math table of a number for multiples upto 20
