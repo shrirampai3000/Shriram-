@@ -1,0 +1,1 @@
+#accept a number and find sum of digits of the number

@@ -1,0 +1,1 @@
+#find the frequency of a digit in the number

@@ -1,0 +1,1 @@
+#accept a number and find biggest/smallest digit in the number

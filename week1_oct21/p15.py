@@ -1,0 +1,1 @@
+#find 2nd smallest digit in the number
